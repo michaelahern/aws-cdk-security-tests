@@ -1,2 +1,1 @@
-# aws-cdk-security-tests
-AWS CDK Security Review Tests
+# AWS CDK Security Review Kiro Power
